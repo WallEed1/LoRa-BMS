@@ -5,8 +5,8 @@ The Long Range Battery Management System (LoRa BMS) is a proof of concept soluti
 
 This project was designed and developed by:
 
-- **Anish Ghai**  
 - **Aryan Agarwal**
+- **Anish Ghai**  
 
 ![PCB Render](images/Complete_Board.jpg)
 
